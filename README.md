@@ -1,1 +1,1 @@
-DRSA_
+DRS system for racing car. SW is in very early stage, because i lost functional version. HW is fully working. Project was made for the AGH racing team.
